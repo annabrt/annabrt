@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=650181&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá,+Eu+sou+a+Anna!+%E2%8A%B9+" alt="Typing SVG">
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   </a>
 </div>
 
-Olá! Eu sou uma desenvolvedora **full stack** apaixonada por criar soluções tecnológicas inovadoras. Com conhecimentos em **HTML5, CSS, JavaScript, Bootstrap, React** e **Linguagem C**, tenho uma base sólida para desenvolver tanto a parte visual quanto a lógica de aplicações web.
+Olá! Eu sou uma desenvolvedora **full stack** apaixonada por criar soluções tecnológicas inovadoras. Com conhecimentos em **HTML5, CSS, JavaScript, Bootstrap, React** e **JAVA**, tenho uma base sólida para desenvolver tanto a parte visual quanto a lógica de aplicações web.
 
 Sou estudante de **Gestão de Tecnologia da Informação**, o que me proporciona uma visão abrangente sobre a integração entre tecnologia e negócios. Minhas habilidades em **lógica de programação** são bem desenvolvidas, permitindo-me resolver problemas complexos e otimizar processos de forma eficiente.
 
